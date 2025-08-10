@@ -23,13 +23,13 @@ Fields: Date, Product, Category, Customer, Region, Quantity, Price, Discount, Re
 Time Period: 2 years of sales data
 
 ## 🛠 Tools & Technologies
-SQL (MySQL / PostgreSQL): Data extraction, transformation, and KPI calculation
+SQL (PostgreSQL): Data extraction, transformation, and KPI calculation
 
 Excel: PivotTables, charts, trend analysis
 
 Power BI: Interactive dashboards & reports
 
-Python (Pandas, Matplotlib, Seaborn) (optional): Deeper exploratory analysis
+Python (Pandas, Matplotlib, Seaborn): Deeper exploratory analysis
 
 ## 📈 Key Insights
 📌 15% increase in quarterly revenue after applying recommended pricing and marketing adjustments (simulated).
@@ -39,3 +39,6 @@ Python (Pandas, Matplotlib, Seaborn) (optional): Deeper exploratory analysis
 📌 Seasonal spikes in Q4 due to holiday sales campaigns.
 
 📌 High-value customers made repeat purchases 2.5× more than average customers.
+
+## 🏁 Conclusion
+This project turns raw sales data into actionable business insights — enabling companies to optimize pricing, target high-value customers, and plan seasonal campaigns effectively.
